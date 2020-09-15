@@ -1,8 +1,8 @@
 #include <WebServer.h>
 #include <WiFi.h>
 
-const char* ssid = "Wi-Fi Luks";
-const char* password = "Angie114";
+const char* ssid = "Write you WiFi SSID";
+const char* password = "Write your password if it exists";
 
 String sHistory = String("");
 
